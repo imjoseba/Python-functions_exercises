@@ -1,57 +1,52 @@
-1-Títulos
-# Funciones Python
-## Funciones Python
-### Funciones Python
-#### Funciones Python
-##### Funciones Python
-###### Funciones Python
+1-Headings
+# Python Functions
+## Python Functions
+### Python Functions
+#### Python Functions
+##### Python Functions
+###### Python Functions
 
-ejercicios a resolver en clase ( linea de texto )
+Classroom exercise tasks (line of text)
 
-2-formato de texto
-    Negrita: **texto** o __texto__
-    Cursiva: *texto* o _texto_
-    Tachado: ~~texto~~
+3-Ordered Lists
+1. First item
+2. Second item
+3. Third item
 
-3-Listas ordenadas
-1. Primer ítem
-2. Segundo ítem
-3. Tercer ítem
+4-Unordered Lists
+- Item
+- Another item
+  * Subitem
+  * Another subitem
+- Final item
 
-4-Listas no ordenadas
-- Ítem
-- Otro ítem
-  * Subítem
-  * Otro subítem
-- Ítem final
+5-Links
+[Link text](URL)
 
-5-Enlaces
-[Texto del enlace](URL)
+6-Images
+![Alternative text](Image URL)
 
-6-Imágenes
-![Texto alternativo](URL de la imagen)
+7-Code
+`` code ``
 
-7-Códigos
-`` código ``
-
-8-bloques de código
+8-Code Blocks
 ```python
-def funtion():
-```
+def function():
+  ```
 
-9-tablas
-| Encabezado 1 | Encabezado 2 |
+9-Tables
+| Header  1 | Header  2 |
 |--------------|--------------|
-| Celda 1A     | Celda 1B     |
-| Celda 2A     | Celda 2B     |
+| Cell  1A     | Cell  1B     |
+| Cell  2A     | Cell  2B     |
 
-10-citas
-> Esto es una cita.
-> - Autor
+10-Quotes
+> This is a quote.
+> - Author
 
-11-tareas
-- [x] Tarea completada
-- [ ] Tarea pendiente
+11-Tasks
+- [x] Completed task
+- [ ] Pending task
 
 12-emojis:
 :smile: :+1: :sparkles:
